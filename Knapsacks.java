@@ -79,11 +79,13 @@ public class Knapsack {
 
 /*
  * Output:-
- * true false false false false false false false false false false
- * true false false false true false false false false false false
- * true false true false true false true false false false false
- * true false true false true false true true false true false
- * true true true true true true true true true true true
- * 
- * true
+ * 75
+0 0 0 0 0 0 0 0 
+0 0 15 15 15 15 15 15 
+0 0 15 15 15 15 15 29 
+0 10 15 25 25 25 25 29 
+0 10 15 45 55 60 70 70
+0 10 15 45 55 60 70 75 
+
+75
  */
